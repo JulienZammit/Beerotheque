@@ -1,0 +1,1 @@
+export const KIND_OF_BEER = {DARK: "DARK", BLONDE: "BLONDE", IPA: "IPA", BROWN: "BROWN"};

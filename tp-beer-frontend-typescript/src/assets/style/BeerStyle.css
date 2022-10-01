@@ -1,0 +1,32 @@
+.margeBottom {
+    margin-bottom: 30px;
+}
+.art-shadow {
+    text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+.box {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+.tableBeer {
+    display: inline-block;
+    border: 1px #2c3e50 solid;
+    margin: auto 0;
+    max-width: 80%;
+}
+
+.inputSort {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.large{
+    width: 400px;
+}
